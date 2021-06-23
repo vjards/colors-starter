@@ -28,21 +28,24 @@ header {
 /*---------- CONTENT AREA ----------*/
 
 .col-3 {
-  width: 100%;
+  width: 50%;
   height: 320px;
   float: left;
 }
 
 #column-1 {
   background:	 #ffb84d;
+  width:50%;
 }
 
 #column-2 {
   background:  #ffcc80;
+  width:50%;
 }
 
 #column-3 {
   background:  #fff5e6;
+  width:100%;
 }
 
 
@@ -65,14 +68,17 @@ footer {
 
   #column-1 {
     background-color:  #f05c79;
+    width:33.33%;
   }
 
   #column-2 {
     background-color: 	 #f6a2b3;
+    width:33.33%;
   }
 
   #column-3 {
     background-color:  #fbd0d9;
+    width:33.33%;
   }
 
   footer {
